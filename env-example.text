@@ -1,0 +1,20 @@
+# Uygulamanın çalışacağı port numarası
+PORT = 5000
+
+# MongoDB veritabanı bağlantı URL'si
+DB_URL = "mongodb://localhost:27017/nodejs-service"
+
+# JSON Web Token (JWT) için gizli anahtar
+JWT_SECRET_KEY = ""
+# JWT'nin geçerlilik süresi
+JWT_EXPIRES_IN = "7d"
+
+# Geçici JWT için gizli anahtar
+JWT_TEMPORARY_SECRET_KEY = ""
+# Geçici JWT'nin geçerlilik süresi
+JWT_TEMPORARY_EXPIRES_IN = "3m"
+
+# E-posta gönderme için kullanılacak hesabının kullanıcı adı
+EMAIL_USER = ""
+# E-posta gönderme için kullanılacak hesabının şifresi
+EMAIL_PASSWORD = ""
