@@ -1,6 +1,6 @@
-# Node.js İle Authentication Uygulaması
+# Node.js JWT ile Üyelik Sistemi API
 
-Bu uygulama, Node.js ve Express kullanılarak geliştirilmiş bir kimlik doğrulama (authentication) uygulamasıdır. Kullanıcıların kaydolmasını, giriş yapmasını, şifrelerini sıfırlamasını ve güvenli bir şekilde kimlik doğrulamasını sağlar.
+Bu proje, Node.js kullanılarak geliştirilmiş bir üyelik sistemi API'si sağlar. JSON Web Token (JWT) kullanılarak kimlik doğrulama ve yetkilendirme sağlanır. Kullanıcı kaydı, girişi, profil bilgilerinin alınması, şifre sıfırlama gibi işlemleri gerçekleştirebilirsiniz.
 
 ## Kullanılan Teknolojiler
 
