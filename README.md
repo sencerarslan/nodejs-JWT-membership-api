@@ -17,7 +17,7 @@ Bu proje, Node.js kullanılarak geliştirilmiş bir üyelik sistemi API'si sağl
 
 ## Başlarken
 
-1. Projeyi klonlayın: `git clone https://github.com/sencerarslan/nodejs-authentication-app.git`
+1. Projeyi klonlayın: `git clone https://github.com/sencerarslan/nodejs-JWT-membership-api.git`
 2. Proje dizinine gidin: `cd nodejs-auth-app`
 3. Gerekli bağımlılıkları yükleyin: `npm install`
 4. `.env` dosyasını oluşturun ve gerekli ortam değişkenlerini ayarlayın (örneğin, veritabanı bağlantısı, JWT anahtarı, e-posta hesabı vb.).
